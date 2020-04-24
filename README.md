@@ -1,1 +1,10 @@
-# SoalShiftSISOP20_modul4_C01
+# SoalShiftSISOP20_modul2_C01
+
+### KELOMPOK        : C1
+ANGGOTA         :
+
+* Vieri Fath Ayuba     (05111840000153)
+* Himawan Wijaya       (05111640000133)
+
+
+### Jawaban Soal Shift Modul 4
